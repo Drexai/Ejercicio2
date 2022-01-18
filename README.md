@@ -1,2 +1,3 @@
 # Ejercicio2
-Mighty Ducks
+
+Excercise with css and html.
